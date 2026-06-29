@@ -4,7 +4,7 @@ An end-to-end data analytics project built with Python and Power BI to analyze c
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 
 ## Project Overview
