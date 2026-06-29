@@ -2,6 +2,10 @@
 
 An end-to-end data analytics project built with Python and Power BI to analyze crime trends across Toronto neighbourhoods using publicly available data.
 
+## Dashboard Preview
+
+![Dashboard](Images/dashboard.png)
+
 
 ## Project Overview
 
@@ -9,7 +13,7 @@ This project analyzes Toronto crime data from 2014–2025 using Python for data 
 
 The raw dataset was cleaned, transformed, and reshaped into an analysis-ready format before being used to create an interactive dashboard.
 
----
+
 
 ## Technologies Used
 
