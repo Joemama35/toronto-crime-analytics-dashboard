@@ -2,10 +2,6 @@
 
 An end-to-end data analytics project built with Python and Power BI to analyze crime trends across Toronto neighbourhoods using publicly available data.
 
-## Dashboard Preview
-
-![Dashboard](Images/dashboard.png)
-
 
 ## Project Overview
 
